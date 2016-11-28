@@ -1,0 +1,81 @@
+Trial Number,Sentence Duration,Time To Response Start,Time to Response End,Talker,Active Channels,Subject Responses / Target Sentences,Words Correct,Total Words
+1,1.9665,3.9053,17.5218,TA,01_02_03_04_05_06_07_08_09_10_11_12_13_14_15_16_17_18_19_20_,when you hear the bell come quickly.,,7
+,,,,,,when you hear the bell come quickly,,
+2,2.5566,2.2855,8.808,TA,01_02_03_04_05_06_07_08_09_10_11_12_13_14_15_16_17_18_19_20_,leave now and you'll arrive on time.,,8
+,,,,,,leave now and you will arrive on time,,
+3,2.3322,1.7968,9.4153,TA,01_02_03_04_05_06_07_08_09_10_11_12_13_14_15_16_17_18_19_20_,he sent the boy on a short errand.,,8
+,,,,,,he sent the boy on a short errand,,
+4,2.2571,1.1022,7.7765,TA,01_02_03_04_05_06_07_08_09_10_11_12_13_14_15_16_17_18_19_20_,the long journey home took a year.,,7
+,,,,,,the long journey home took a year,,
+5,2.1579,1.2319,7.9464,TA,01_02_03_04_05_06_07_08_09_10_11_12_13_14_15_16_17_18_19_20_,open your book to the first page.,,7
+,,,,,,open your book to the first page,,
+6,2.0875,1.0936,11.9757,TA,01_02_03_04_05_06_07_08_09_10_11_12_13_14_15_16_17_18_19_20_,the corner store was robbed last night.,,7
+,,,,,,the corner store was robbed last night,,
+7,2.3609,6.0027,19.9109,AW,01_02_03_04_05_06_07_08_09_10_11_12_13_14_15_16_17_18_19_20_,the thin book fits in the side pocket.,,8
+,,,,,,a thin book fits in the side pocket,,
+8,1.9937,2.2083,10.8641,TA,01_02_03_04_05_06_07_08_09_10_11_12_13_14_15_16_17_18_19_20_,will you please answer that phone?,,6
+,,,,,,will you please answer that phone,,
+9,2.3592,1.3908,13.6808,AW,01_02_03_04_05_06_07_08_09_10_11_12_13_14_15_16_17_18_19_20_,one step more and the board will collapse.,,8
+,,,,,,one step more and the board will collapse,,
+10,2.5901,1.1685,13.1307,AW,01_02_03_04_05_06_07_08_09_10_11_12_13_14_15_16_17_18_19_20_,seven seals were stamped on great sheets.,,7
+,,,,,,seven seals were stamped on great sheets,,
+11,2.6556,2.9234,13.1655,AW,01_02_03_04_05_06_07_08_09_10_11_12_13_14_15_16_17_18_19_20_,the streets are narrow and full of sharp turns.,,9
+,,,,,,the streets are narrow and full of sharp turns,,
+12,2.8093,1.2671,9.6137,TA,01_02_03_04_05_06_07_08_09_10_11_12_13_14_15_16_17_18_19_20_,the blind man counted his old coins.,,7
+,,,,,,the blind man counted his old coins,,
+13,2.2146,1.5358,27.8968,AW,01_02_03_04_05_06_07_08_09_10_11_12_13_14_15_16_17_18_19_20_,the flat pack makes more luggage space.,,7
+,,,,,,a flat pack takes less luggage space,,
+14,2.1878,1.1929,10.9792,TA,01_02_03_04_05_06_07_08_09_10_11_12_13_14_15_16_17_18_19_20_,she saw a cat in the neighbor's house.,,8
+,,,,,,she saw a cat in the neighbor's house,,
+15,1.9766,1.0916,16.2776,AW,01_02_03_04_05_06_07_08_09_10_11_12_13_14_15_16_17_18_19_20_,green ice frosted the punch bowl.,,6
+,,,,,,green ice frosted the punch bowl,,
+16,2.7105,0.80853,9.4269,AW,01_02_03_04_05_06_07_08_09_10_11_12_13_14_15_16_17_18_19_20_,the gloss on top made it unfit to read.,,9
+,,,,,,the gloss on top made it unfit to read,,
+17,2.7931,0.8591,10.0774,AW,01_02_03_04_05_06_07_08_09_10_11_12_13_14_15_16_17_18_19_20_,the store was jammed before the sale could start.,,9
+,,,,,,the store was jammed before the sale could start,,
+18,2.151,0.98887,7.9113,TA,01_02_03_04_05_06_07_08_09_10_11_12_13_14_15_16_17_18_19_20_,the big red apple fell to the ground.,,8
+,,,,,,the big red apple fell to the ground,,
+19,2.089,1.2323,9.0987,TA,01_02_03_04_05_06_07_08_09_10_11_12_13_14_15_16_17_18_19_20_,small children came to see him.,,6
+,,,,,,small children came to see him,,
+20,2.2258,1.048,12.0342,AW,01_02_03_04_05_06_07_08_09_10_11_12_13_14_15_16_17_18_19_20_,take the match and strike it against your shoe.,,9
+,,,,,,take the match and strike it against your shoe,,
+21,2.7525,0.72898,17.0829,AW,01_02_03_04_05_06_07_08_09_10_11_12_13_14_15_16_17_18_19_20_,this steady drip is worse than a drenching rain.,,9
+,,,,,,the steady drip is worse than a drenching rain,,
+22,2.6018,0.76996,33.3287,AW,01_02_03_04_05_06_07_08_09_10_11_12_13_14_15_16_17_18_19_20_,this stitch will serve but needs to be shortened.,,9
+,,,,,,the stitch will serve but needs to be shortened,,
+23,2.7208,1.5769,11.4672,TA,01_02_03_04_05_06_07_08_09_10_11_12_13_14_15_16_17_18_19_20_,the curtain rose and the show was on.,,8
+,,,,,,the curtain rose and the show was on,,
+24,2.3051,1.3758,10.33,AW,01_02_03_04_05_06_07_08_09_10_11_12_13_14_15_16_17_18_19_20_,stop and stare at the hard working man.,,8
+,,,,,,stop and stare at the hard working man,,
+25,2.7613,0.82985,9.3521,TA,01_02_03_04_05_06_07_08_09_10_11_12_13_14_15_16_17_18_19_20_,the grass and bushes were wet with dew.,,8
+,,,,,,the grass and bushes were wet with dew,,
+26,2.2805,4.1454,13.0406,TA,01_02_03_04_05_06_07_08_09_10_11_12_13_14_15_16_17_18_19_20_,tip the pail once and let it settle.,,8
+,,,,,,dip the pail once and let it settle,,
+27,2.9054,1.5543,11.6607,TA,01_02_03_04_05_06_07_08_09_10_11_12_13_14_15_16_17_18_19_20_,a severe storm tore down the barn.,,7
+,,,,,,a severe storm tore down the barn,,
+28,2.5231,1.0227,12.153,TA,01_02_03_04_05_06_07_08_09_10_11_12_13_14_15_16_17_18_19_20_,the gold ring will please most any girl.,,8
+,,,,,,a gold ring will please most any girl,,
+29,2.6564,1.0533,15.7433,AW,01_02_03_04_05_06_07_08_09_10_11_12_13_14_15_16_17_18_19_20_,the hail pattered on the burnt brown grass.,,8
+,,,,,,the hail pattered on the burnt brown grass,,
+30,2.713,0.95874,13.4489,AW,01_02_03_04_05_06_07_08_09_10_11_12_13_14_15_16_17_18_19_20_,it was a bad error on the part of the new judge.,,12
+,,,,,,it was a bad error on the part of the new judge,,
+31,2.8561,0.80331,14.3813,AW,01_02_03_04_05_06_07_08_09_10_11_12_13_14_15_16_17_18_19_20_,the pup jerked the leash as he saw a feline shape.,,11
+,,,,,,the pup jerked the leash as he saw a feline shape,,
+32,2.4569,3.0841,22.2645,AW,01_02_03_04_05_06_07_08_09_10_11_12_13_14_15_16_17_18_19_20_,our trips are said to strike heavy blows.,,8
+,,,,,,our troops are set to strike heavy blows,,
+33,2.089,1.3451,8.6195,TA,01_02_03_04_05_06_07_08_09_10_11_12_13_14_15_16_17_18_19_20_,she called his name many times.,,6
+,,,,,,she called his name many times,,
+34,2.8981,1.1148,14.7245,AW,01_02_03_04_05_06_07_08_09_10_11_12_13_14_15_16_17_18_19_20_,the pot boiled but the contents failed to gel.,,9
+,,,,,,the pot boiled but the contents failed to jell,,
+35,2.0744,2.6504,14.0605,AW,01_02_03_04_05_06_07_08_09_10_11_12_13_14_15_16_17_18_19_20_,a stuffed chair slipped from the moving van.,,8
+,,,,,,a stuffed chair slipped from the moving van,,
+36,2.8153,1.0209,17.1108,TA,01_02_03_04_05_06_07_08_09_10_11_12_13_14_15_16_17_18_19_20_,the young prince became heir to the throne.,,8
+,,,,,,the young prince became heir to the throne,,
+37,2.6611,1.2937,12.8957,AW,01_02_03_04_05_06_07_08_09_10_11_12_13_14_15_16_17_18_19_20_,the bombs left most of the town in ruins.,,9
+,,,,,,the bombs left most of the town in ruins,,
+38,2.2751,2.1148,9.8425,TA,01_02_03_04_05_06_07_08_09_10_11_12_13_14_15_16_17_18_19_20_,fish evade the net and swim off.,,7
+,,,,,,fish evade the net and swim off,,
+39,2.8814,0.95669,11.511,TA,01_02_03_04_05_06_07_08_09_10_11_12_13_14_15_16_17_18_19_20_,the pink shell was found on the sandy beach.,,9
+,,,,,,a pink shell was found on the sandy beach,,
+40,2.35,0.71182,9.4262,AW,01_02_03_04_05_06_07_08_09_10_11_12_13_14_15_16_17_18_19_20_,the baby puts his right foot in his mouth.,,9
+,,,,,,the baby puts his right foot in his mouth,,

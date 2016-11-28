@@ -1,0 +1,161 @@
+Trial Number,Sentence Duration,Time To Response Start,Time to Response End,Talker,Active Channels,Subject Responses / Target Sentences,Words Correct,Total Words
+1,2.3833,6.6644,13.7037,TA,04_05_07_10_11_16_19_,=--- walk the middle of the road.,,10
+,,,,,,they are men who walk the middle of the road,,
+2,2.4626,5.4693,19.0123,AW,04_06_07_11_13_17_20_,the --- stood on the train track,,8
+,,,,,,the empty flask stood on the tin tray,,
+3,2.4818,6.044,6.6196,AW,03_07_13_14_16_19_20_,---,,8
+,,,,,,bring your best compass to the third class,,
+4,2.4944,4.9877,21.0328,TA,01_06_12_13_14_16_18_,=--- and the bell rings weakly.,,8
+,,,,,,jerk the rope and the bell rings weakly,,
+5,1.7373,8.3549,14.4183,TA,02_04_08_10_15_19_20_,ring it once and then forget it.,,8
+,,,,,,write at once or you may forget it,,
+6,2.2309,6.4087,16.0133,AW,02_08_11_14_16_18_19_,=---- for pleasure.,,6
+,,,,,,read verse out loud for pleasure,,
+7,2.0152,5.4021,6.058,AW,01_02_09_13_14_15_18_,---,,5
+,,,,,,pure bred poodles have curls,,
+8,2.5146,3.7496,12.2049,TA,01_09_10_12_13_15_18_,=---less than half of the group.,,8
+,,,,,,women form less than half of the group,,
+9,2.1886,8.987,16.3699,AW,02_03_05_08_10_18_19_,it just -----,,7
+,,,,,,the just claim got the right verdict,,
+10,2.198,5.8388,15.8963,TA,03_04_07_10_12_14_18_,take their shares as a fair profit.,,7
+,,,,,,take two shares as a fair profit,,
+11,2.6526,3.9471,17.2343,TA,06_07_09_11_16_19_20_,the stale smell of old --- lingers.,,7
+,,,,,,the stale smell of old beer lingers,,
+12,2.4345,3.2379,16.2769,TA,08_10_14_15_17_19_20_,he asks no person to vouch for him.,,8
+,,,,,,he asks no person to vouch for him,,
+13,2.4646,3.7289,16.8716,TA,01_02_03_07_10_12_14_,pour this -- from the pot into the plant.,,9
+,,,,,,pour the stew from the pot into the plate,,
+14,2.3106,18.2042,21.9583,TA,04_06_08_13_15_16_18_,=---water.,,7
+,,,,,,to make pure ice you freeze water,,
+15,2.7817,6.7294,23.6401,AW,02_06_10_15_16_18_20_,i saw this -----,,9
+,,,,,,a saw is a tool used for making boards,,
+16,2.3827,17.2279,25.003,AW,01_03_07_12_15_19_20_,hit the top waves in a graceful wind.,,8
+,,,,,,the tree top waved in a graceful way,,
+17,2.2785,1.4673,9.7816,AW,01_05_07_12_13_14_17_,the tiny girl took off her hat.,,7
+,,,,,,the tiny girl took off her hat,,
+18,2.4364,4.6778,16.1648,AW,03_06_08_09_12_17_19_,the special vent in a high wind.,,7
+,,,,,,these thistles bend in a high wind,,
+19,2.2716,4.4038,13.2671,AW,02_05_07_12_15_16_18_,mend the coat before you go out.,,7
+,,,,,,mend the coat before you go out,,
+20,2.4984,5.0265,22.105,AW,02_06_07_10_17_18_19_,the salt -- tastes fine with ham.,,7
+,,,,,,a salt pickle tastes fine with ham,,
+21,2.1941,3.2512,11.2665,TA,02_04_07_08_10_12_14_,work fast if you want to finish early.,,8
+,,,,,,write fast if you want to finish early,,
+22,2.6969,18.4733,26.2323,AW,01_06_07_08_10_14_18_,#NAME?,,9
+,,,,,,the rope will bind the seven books at once,,
+23,2.4191,2.8863,10.4526,TA,03_04_05_09_11_13_20_,the sun came up to light the eastern sky.,,9
+,,,,,,the sun came up to light the eastern sky,,
+24,2.9637,7.9485,22.5073,TA,01_04_10_11_14_17_18_,the  --- to rake the leaves.,,11
+,,,,,,the barrel of beer was a brew of malt and hops,,
+25,2.8178,3.8252,20.6745,AW,03_04_06_10_11_15_17_,the wrist was badly strained and ----.,,8
+,,,,,,the wrist was badly strained and hung limp,,
+26,2.9077,7.7451,14.5525,AW,01_03_04_05_10_12_17_,#NAME?,,10
+,,,,,,press the pants and sew a button on the vest,,
+27,2.781,8.3044,16.2236,AW,02_05_09_10_14_17_20_,#NAME?,,8
+,,,,,,wood is best for making toys and blocks,,
+28,1.7564,15.2003,27.0392,TA,01_04_08_09_10_13_16_,#NAME?,,6
+,,,,,,live wires should be kept covered,,
+29,2.7884,4.1984,16.7645,AW,02_03_09_11_12_15_20_,the hogs were ----- the garbage.,,8
+,,,,,,the hogs were fed chopped corn and garbage,,
+30,2.5872,4.909,21.1316,TA,04_07_10_11_15_16_20_,the lampshade with the steady green ---.,,8
+,,,,,,the lamp shone with a steady green flame,,
+31,2.6627,3.9187,12.3661,AW,01_02_05_08_09_15_18_,we tried to replace the --- but failed.,,8
+,,,,,,we tried to replace the coin but failed,,
+32,2.6332,3.5456,21.9283,AW,01_03_04_10_11_16_19_,the urge to read short stories is weird.,,8
+,,,,,,the urge to write short stories is rare,,
+33,2.55,6.5939,7.2254,AW,04_05_06_08_09_16_20_,---,,7
+,,,,,,sickness kept him home the third week,,
+34,3.0185,5.2331,30.5113,TA,02_03_06_11_12_14_15_,the --- of feet in the snow was the only --- we found.,,11
+,,,,,,the crunch of feet in the snow was the only sound,,
+35,2.7471,7.8501,16.8573,TA,02_03_08_09_12_15_18_,#NAME?,,9
+,,,,,,let it burn it gives us warmth and comfort,,
+36,2.3686,4.592,10.3275,AW,02_06_09_12_16_18_20_,#NAME?,,9
+,,,,,,the dune rose from the edge of the water,,
+37,2.0788,3.1686,14.6967,AW,04_08_10_11_14_16_20_,they are the -----.,,7
+,,,,,,there the flood mark is ten inches,,
+38,1.5228,4.4959,10.9194,TA,02_06_11_13_14_16_20_,beat that with a wooden stick.,,6
+,,,,,,do that with a wooden stick,,
+39,2.3065,5.9052,12.0806,AW,05_06_07_08_16_17_18_,#NAME?,,7
+,,,,,,eight miles of woodland burned to waste,,
+40,2.4945,9.345,10.7208,TA,03_12_13_15_16_17_18_,---,,9
+,,,,,,coax a young calf to drink from a bucket,,
+41,2.4593,3.5209,22.1915,AW,02_04_09_10_13_15_17_,the girl at the booth sold fifty ---.,,8
+,,,,,,the girl at the booth sold fifty bonds,,
+42,2.7565,6.5205,12.9039,AW,01_03_04_08_13_15_18_,#NAME?,,9
+,,,,,,a yacht slid around the point into the bay,,
+43,2.5851,3.884,14.0111,AW,04_05_06_09_15_16_20_,the fin was sharp and cut the clear water.,,9
+,,,,,,the fin was sharp and cut the clear water,,
+44,2.3468,10.2418,20.113,AW,04_09_11_12_14_15_20_,#NAME?,,7
+,,,,,,hop over the fence and plunge in,,
+45,2.5535,3.6941,12.9575,AW,01_02_04_07_09_11_15_,the clock struck two in the third period.,,8
+,,,,,,the clock struck to mark the third period,,
+46,2.8474,3.5731,13.3723,TA,02_06_07_11_14_16_17_,the rush for funds reached its peak tuesday.,,8
+,,,,,,the rush for funds reached its peak tuesday,,
+47,1.9897,3.6199,11.4273,AW,03_10_12_13_14_15_19_,the could laugh although they were sad.,,7
+,,,,,,they could laugh although they were sad,,
+48,2.59,4.4385,13.6217,TA,02_04_05_06_08_17_19_,the beach is dry and shallow at low tide.,,9
+,,,,,,the beach is dry and shallow at low tide,,
+49,2.2076,11.4518,21.126,AW,01_02_03_05_07_16_19_,#NAME?,,8
+,,,,,,add the column and put the sum here,,
+50,2.9201,4.5547,25.7693,TA,02_05_06_14_15_17_19_,the --- is blown and the tire flat and useless.,,10
+,,,,,,the tube was blown and the tire flat and useless,,
+51,2.1981,2.962,12.3533,TA,02_06_08_13_14_17_20_,it takes a lot of help to finish these.,,9
+,,,,,,it takes a lot of help to finish these,,
+52,2.6425,8.714,11.6416,TA,03_10_13_16_17_19_20_,#NAME?,,10
+,,,,,,he took the lead and kept it the whole distance,,
+53,2.5327,6.3902,11.6457,AW,02_06_08_09_14_17_18_,#NAME?,,8
+,,,,,,the lazy cow lay in the cool grass,,
+54,2.3449,3.0404,13.1009,AW,03_04_05_09_11_14_16_,we frown when events take a bad turn.,,8
+,,,,,,we frown when events take a bad turn,,
+55,2.4287,3.0857,12.0128,TA,03_04_09_10_11_13_19_,slide the box into the empty space.,,7
+,,,,,,slide the box into that empty space,,
+56,2.2007,2.9552,10.2505,TA,01_07_10_13_15_16_18_,the junkyard had a moldy smell.,,7
+,,,,,,the junk yard had a mouldy smell,,
+57,1.7234,4.4515,10.4271,AW,02_05_11_15_16_17_18_,ten pens were set in order.,,6
+,,,,,,ten pins were set in order,,
+58,2.0435,5.1149,6.4348,AW,01_05_06_07_08_13_17_,?,,8
+,,,,,,help the woman get back to her feet,,
+59,3.0834,5.1092,17.3401,AW,03_07_08_13_14_17_18_,the navy --- task force.,,7
+,,,,,,the navy attacked the big task force,,
+60,2.4818,5.7144,6.2823,TA,01_03_04_08_09_11_20_,?,,8
+,,,,,,the fur of cats goes by many names,,
+61,2.7775,7.5227,22.8344,TA,03_04_08_13_16_18_20_,the muzzle on the ---,,9
+,,,,,,the nozzle of the fire hose was bright brass,,
+62,2.5962,3.3841,16.9269,AW,03_04_07_10_12_14_20_,the frosty air passed through the coat.,,7
+,,,,,,the frosty air passed through the coat,,
+63,2.4369,8.5675,9.5913,AW,05_06_11_12_13_17_20_,?,,7
+,,,,,,oak is strong and also gives shade,,
+64,2.3743,11.4826,12.1382,AW,01_04_05_08_10_15_18_,?,,8
+,,,,,,the hat brim was wide and too droopy,,
+65,2.3234,2.8625,12.4545,AW,05_06_07_10_16_18_20_,he ran half way to the hardware store.,,8
+,,,,,,he ran half way to the hardware store,,
+66,2.3725,5.0654,12.5607,AW,03_06_08_11_13_14_19_,#NAME?,,8
+,,,,,,the two met while playing on the sand,,
+67,2.0889,2.8115,13.3306,TA,01_08_09_11_13_17_19_,the --- was two years old.,,7
+,,,,,,the purple tie was ten years old,,
+68,2.138,5.7022,15.3014,TA,02_03_08_10_12_15_20_,the man made an x to mean nothing.,,8
+,,,,,,the map had an x that meant nothing,,
+69,2.8811,5.9406,12.5241,AW,03_08_12_13_15_18_20_,#NAME?,,9
+,,,,,,it caught its hind paw in a rusty trap,,
+70,2.4287,5.6615,6.0344,TA,01_10_11_13_14_17_19_,?,,7
+,,,,,,the last switch cannot be turned off,,
+71,2.413,4.7936,16.0487,AW,01_04_13_16_17_18_19_,the wave could be seen in the front of the ship.,,9
+,,,,,,the wharf could be seen at the farther shore,,
+72,2.3194,6.5914,13.6228,TA,01_02_04_09_12_14_19_,he wrote down a list of items.,,8
+,,,,,,he wrote down a long list of items,,
+73,2.5541,9.3831,19.4782,TA,01_08_11_13_14_15_16_,she --- gently in a black form.,,7
+,,,,,,shape the clay gently into block form,,
+74,2.8523,4.5958,12.5872,AW,03_04_06_07_13_15_18_,the dark stain dried on the first page.,,8
+,,,,,,the ink stain dried on the finished page,,
+75,2.1625,3.5231,14.8742,TA,03_06_07_09_11_17_20_,the kitten chased the dog down the street.,,8
+,,,,,,the kitten chased the dog down the street,,
+76,2.3219,4.4968,18.9037,TA,02_04_07_08_10_13_17_,put the record --- in the case.,,8
+,,,,,,pack the records in a neat thin case,,
+77,2.4273,5.7426,17.3017,TA,03_06_07_09_10_12_20_,the play began as soon as we sat down.,,9
+,,,,,,the play began as soon as we sat down,,
+78,2.4902,3.7181,13.6934,TA,03_05_06_12_13_14_18_,to reach the end you need much courage.,,8
+,,,,,,to reach the end he needs much courage,,
+79,2.5199,3.4683,10.8518,TA,01_03_05_11_13_18_19_,fix and shine the ---,,6
+,,,,,,fake stones shine but cost little,,
+80,3.3284,6.3754,11.151,TA,01_05_06_07_10_16_18_,#NAME?,,7
+,,,,,,men think and plan and sometimes act,,

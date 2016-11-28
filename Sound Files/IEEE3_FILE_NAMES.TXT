@@ -1,0 +1,720 @@
+database\ieee\TA01.wav The BIRCH CANOE SLID on the SMOOTH PLANKS.
+database\ieee\TA02.wav GLUE the SHEET to the DARK BLUE BACKGROUND.
+database\ieee\TA03.wav IT'S EASY to TELL the DEPTH of a WELL.
+database\ieee\TA04.wav These DAYS a CHICKEN LEG is a RARE DISH.
+database\ieee\TA05.wav RICE is OFTEN SERVED in ROUND BOWLS.
+database\ieee\TA06.wav The JUICE of LEMONS MAKES FINE PUNCH.
+database\ieee\TA07.wav The BOX was THROWN BESIDE the PARKED TRUCK.
+database\ieee\TA08.wav The HOGS were FED CHOPPED CORN and GARBAGE.
+database\ieee\TA09.wav FOUR HOURS of STEADY WORK FACED us.
+database\ieee\TA10.wav A LARGE SIZE in STOCKINGS is HARD to SELL.
+database\ieee\TA11.wav The BOY was THERE WHEN the SUN ROSE.
+database\ieee\TA12.wav A ROD is USED to CATCH PINK SALMON.
+database\ieee\TA13.wav The SOURCE of the HUGE RIVER is the CLEAR SPRING.
+database\ieee\TA14.wav KICK the BALL STRAIGHT and FOLLOW THROUGH.
+database\ieee\TA15.wav HELP the WOMAN GET BACK to her FEET.
+database\ieee\TA16.wav A POT of TEA HELPS to PASS the EVENING.
+database\ieee\TA17.wav SMOKEY FIRES LACK FLAME and HEAT.
+database\ieee\TA18.wav The SOFT CUSHION BROKE the MAN'S FALL.
+database\ieee\TA19.wav The SALT BREEZE CAME ACROSS from the SEA.
+database\ieee\TA20.wav The GIRL at the BOOTH SOLD FIFTY BONDS.
+database\ieee\TA21.wav The SMALL PUP GNAWED a HOLE in the SOCK.
+database\ieee\TA22.wav The FISH TWISTED and TURNED on the BENT HOOK.
+database\ieee\TA23.wav PRESS the PANTS and SEW a BUTTON on the VEST.
+database\ieee\TA24.wav The SWAN DIVE was FAR SHORT of PERFECT.
+database\ieee\TA25.wav The BEAUTY of the VIEW STUNNED the YOUNG BOY.
+database\ieee\TA26.wav TWO BLUE FISH SWAM in the TANK.
+database\ieee\TA27.wav HER PURSE was FULL of USELESS TRASH.
+database\ieee\TA28.wav The COLT REARED and THREW the TALL RIDER.
+database\ieee\TA29.wav It SNOWED, RAINED, and HAILED the SAME MORNING.
+database\ieee\TA30.wav READ VERSE OUT LOUD for PLEASURE.
+database\ieee\TA31.wav HOIST the LOAD to YOUR LEFT SHOULDER.
+database\ieee\TA32.wav TAKE the WINDING PATH to REACH the LAKE.
+database\ieee\TA33.wav NOTE CLOSELY the SIZE of the GAS TANK.
+database\ieee\TA34.wav WIPE the GREASE OFF his DIRTY FACE.
+database\ieee\TA35.wav MEND the COAT BEFORE you GO OUT.
+database\ieee\TA36.wav The WRIST was BADLY STRAINED and HUNG LIMP.
+database\ieee\TA37.wav The STRAY CAT GAVE BIRTH to KITTENS.
+database\ieee\TA38.wav The YOUNG GIRL GAVE no CLEAR RESPONSE.
+database\ieee\TA39.wav The MEAL was COOKED BEFORE the BELL RANG.
+database\ieee\TA40.wav WHAT JOY THERE IS in LIVING.
+database\ieee\TA41.wav A KING RULED the STATE in the EARLY DAYS.
+database\ieee\TA42.wav The SHIP was TORN APART on the SHARP REEF.
+database\ieee\TA43.wav SICKNESS KEPT him HOME the THIRD WEEK.
+database\ieee\TA44.wav The WIDE ROAD SHIMMERED in the HOT SUN.
+database\ieee\TA45.wav The LAZY COW LAY in the COOL GRASS.
+database\ieee\TA46.wav LIFT the SQUARE STONE OVER the FENCE.
+database\ieee\TA47.wav The ROPE will BIND the SEVEN BOOKS at ONCE.
+database\ieee\TA48.wav HOP OVER the FENCE and PLUNGE IN.
+database\ieee\TA49.wav The FRIENDLY GANG LEFT the DRUG STORE.
+database\ieee\TA50.wav MESH WIRE KEEPS CHICKS INSIDE.
+database\ieee\TA51.wav The FROSTY AIR PASSED THROUGH the COAT.
+database\ieee\TA52.wav The CROOKED MAZE FAILED to FOOL the MOUSE.
+database\ieee\TA53.wav ADDING FAST LEADS to WRONG SUMS.
+database\ieee\TA54.wav The SHOW was a FLOP FROM the VERY START.
+database\ieee\TA55.wav A SAW is a TOOL USED for MAKING BOARDS.
+database\ieee\TA56.wav The WAGON MOVED on WELL OILED WHEELS.
+database\ieee\TA57.wav MARCH the SOLDIERS PAST the NEXT HILL.
+database\ieee\TA58.wav A CUP of SUGAR MAKES SWEET FUDGE.
+database\ieee\TA59.wav PLACE a ROSEBUSH NEAR the PORCH STEPS.
+database\ieee\TA60.wav BOTH LOST their LIVES in the RAGING STORM.
+database\ieee\TA61.wav WE TALKED of the SIDE SHOW in the CIRCUS.
+database\ieee\TA62.wav USE a PENCIL to WRITE the FIRST DRAFT.
+database\ieee\TA63.wav He RAN HALF WAY to the HARDWARE STORE.
+database\ieee\TA64.wav The CLOCK STRUCK to MARK the THIRD PERIOD.
+database\ieee\TA65.wav A SMALL CREEK CUT ACROSS the FIELD.
+database\ieee\TA66.wav CARS and BUSSES STALLED in SNOW DRIFTS.
+database\ieee\TA67.wav The SET of CHINA HIT the FLOOR with a CRASH.
+database\ieee\TA68.wav This is a GRAND SEASON for HIKES ON the ROAD.
+database\ieee\TA69.wav The DUNE ROSE FROM the EDGE of the WATER.
+database\ieee\TA70.wav THOSE WORDS were the CUE for the ACTOR to LEAVE.
+database\ieee\TA71.wav A YACHT SLID AROUND the POINT into the BAY.
+database\ieee\TA72.wav The TWO MET WHILE PLAYING on the SAND.
+database\ieee\TA73.wav The INK STAIN DRIED on the FINISHED PAGE.
+database\ieee\TA74.wav The WALLED TOWN was SEIZED WITHOUT a FIGHT.
+database\ieee\TA75.wav The LEASE RAN OUT in SIXTEEN WEEKS.
+database\ieee\TA76.wav A TAME SQUIRREL MAKES a NICE PET.
+database\ieee\TA77.wav The HORN of the CAR WOKE the SLEEPING COP.
+database\ieee\TA78.wav The HEART BEAT STRONGLY and with FIRM STROKES.
+database\ieee\TA79.wav The PEARL was WORN in a THIN SILVER RING.
+database\ieee\TA80.wav The FRUIT PEEL was CUT in THICK SLICES.
+database\ieee\TA81.wav The NAVY ATTACKED the BIG TASK FORCE.
+database\ieee\TA82.wav SEE the CAT GLARING at the SCARED MOUSE.
+database\ieee\TA83.wav THERE are MORE than TWO FACTORS HERE.
+database\ieee\TA84.wav The HAT BRIM was WIDE and TOO DROOPY.
+database\ieee\TA85.wav The LAWYER TRIED to LOSE HIS CASE.
+database\ieee\TA86.wav The GRASS CURLED AROUND the FENCE POST.
+database\ieee\TA87.wav CUT the PIE INTO LARGE PARTS.
+database\ieee\TA88.wav MEN STRIVE but SELDOM GET RICH.
+database\ieee\TA89.wav ALWAYS CLOSE the BARN DOOR TIGHT.
+database\ieee\TA90.wav He LAY PRONE and HARDLY MOVED a LIMB.
+database\ieee\TA91.wav The SLUSH LAY DEEP ALONG the STREET.
+database\ieee\TA92.wav A WISP of CLOUD HUNG in the BLUE AIR.
+database\ieee\TA93.wav A POUND of SUGAR COSTS MORE than EGGS.
+database\ieee\TA94.wav The FIN was SHARP and CUT the CLEAR WATER.
+database\ieee\TA95.wav The PLAY SEEMS DULL and QUITE STUPID.
+database\ieee\TA96.wav BAIL the BOAT to STOP it FROM SINKING.
+database\ieee\TA97.wav The TERM ENDED in LATE JUNE that YEAR.
+database\ieee\TA98.wav A TUSK is USED to MAKE COSTLY GIFTS.
+database\ieee\TA99.wav TEN PINS were SET IN ORDER.
+database\ieee\TA100.wav The BILL was PAID EVERY THIRD WEEK.
+database\ieee\TA101.wav OAK is STRONG and ALSO GIVES SHADE.
+database\ieee\TA102.wav CATS and DOGS EACH HATE the OTHER.
+database\ieee\TA103.wav The PIPE BEGAN to RUST WHILE NEW.
+database\ieee\TA104.wav OPEN the CRATE but DON'T BREAK the GLASS.
+database\ieee\TA105.wav ADD the SUM to the PRODUCT of THESE THREE.
+database\ieee\TA106.wav THIEVES who ROB FRIENDS DESERVE JAIL.
+database\ieee\TA107.wav The RIPE TASTE of CHEESE IMPROVES with AGE.
+database\ieee\TA108.wav ACT on THESE ORDERS with GREAT SPEED.
+database\ieee\TA109.wav The HOG CRAWLED UNDER the HIGH FENCE.
+database\ieee\TA110.wav MOVE the VAT OVER the HOT FIRE.
+database\ieee\TA111.wav The BARK of the PINE TREE was SHINY and DARK.
+database\ieee\TA112.wav LEAVES TURN BROWN and YELLOW in the FALL.
+database\ieee\TA113.wav The PENNANT WAVED WHEN the WIND BLEW.
+database\ieee\TA114.wav SPLIT the LOG with a QUICK SHARP BLOW.
+database\ieee\TA115.wav BURN PEAT AFTER the LOGS are OUT.
+database\ieee\TA116.wav He ORDERED PEACH PIE with ICE CREAM.
+database\ieee\TA117.wav WEAVE the CARPET on the RIGHT HAND SIDE.
+database\ieee\TA118.wav HEMP is a WEED FOUND in PARTS of the TROPICS.
+database\ieee\TA119.wav A LAME BACK KEPT his SCORE LOW.
+database\ieee\TA120.wav WE FIND JOY in the SIMPLEST THINGS.
+database\ieee\TA121.wav TYPE OUT THREE LISTS of ORDERS.
+database\ieee\TA122.wav The HARDER he TRIED the LESS he GOT DONE.
+database\ieee\TA123.wav The BOSS RAN the SHOW with a WATCHFUL EYE.
+database\ieee\TA124.wav The CUP CRACKED and SPILLED ITS CONTENTS.
+database\ieee\TA125.wav PASTE can CLEANSE the MOST DIRTY BRASS.
+database\ieee\TA126.wav The SLANG WORD for RAW WHISKEY is BOOZE.
+database\ieee\TA127.wav It CAUGHT its HIND PAW in a RUSTY TRAP.
+database\ieee\TA128.wav The WHARF COULD be SEEN at the FARTHER SHORE.
+database\ieee\TA129.wav FEEL the HEAT of the WEAK DYING FLAME.
+database\ieee\TA130.wav The TINY GIRL TOOK OFF her HAT.
+database\ieee\TA131.wav A CRAMP is NO SMALL DANGER on a SWIM.
+database\ieee\TA132.wav He SAID the SAME PHRASE THIRTY TIMES.
+database\ieee\TA133.wav PICK the BRIGHT ROSE WITHOUT LEAVES.
+database\ieee\TA134.wav TWO PLUS SEVEN is LESS than TEN.
+database\ieee\TA135.wav The GLOW DEEPENED in the EYES of the SWEET GIRL.
+database\ieee\TA136.wav BRING YOUR PROBLEMS to the WISE CHIEF.
+database\ieee\TA137.wav WRITE a FOND NOTE to the FRIEND you CHERISH.
+database\ieee\TA138.wav CLOTHES and LODGING are FREE to a NEW MAN.
+database\ieee\TA139.wav We FROWN when EVENTS TAKE a BAD TURN.
+database\ieee\TA140.wav PORT is a STRONG WINE with a SMOKY TASTE.
+database\ieee\TA141.wav The YOUNG KID JUMPED the RUSTY GATE.
+database\ieee\TA142.wav GUESS the RESULTS FROM the FIRST SCORES.
+database\ieee\TA143.wav A SALT PICKLE TASTES FINE with HAM.
+database\ieee\TA144.wav The JUST CLAIM GOT the RIGHT VERDICT.
+database\ieee\TA145.wav THESE THISTLES BEND in a HIGH WIND.
+database\ieee\TA146.wav PURE BRED POODLES HAVE CURLS.
+database\ieee\TA147.wav The TREE TOP WAVED in a GRACEFUL WAY.
+database\ieee\TA148.wav The SPOT on the BLOTTER was MADE by GREEN INK.
+database\ieee\TA149.wav MUD was SPATTERED on the FRONT of his WHITE SHIRT.
+database\ieee\TA150.wav The CIGAR BURNED a HOLE in the DESK TOP.
+database\ieee\TA151.wav The EMPTY FLASK STOOD on the TIN TRAY.
+database\ieee\TA152.wav A SPEEDY MAN can BEAT this TRACK MARK.
+database\ieee\TA153.wav He BROKE a NEW SHOELACE THAT DAY.
+database\ieee\TA154.wav The COFFEE STAND is TOO HIGH for the COUCH.
+database\ieee\TA155.wav The URGE to WRITE SHORT STORIES is RARE.
+database\ieee\TA156.wav The PENCILS HAVE ALL BEEN USED.
+database\ieee\TA157.wav The PIRATES SEIZED the CREW of the LOST SHIP.
+database\ieee\TA158.wav We TRIED to REPLACE the COIN BUT FAILED.
+database\ieee\TA159.wav She SEWED the TORN COAT QUITE NEATLY.
+database\ieee\TA160.wav The SOFA CUSHION is RED and of LIGHT WEIGHT.
+database\ieee\TA161.wav The JACKET HUNG on the BACK of the WIDE CHAIR.
+database\ieee\TA162.wav AT that HIGH LEVEL the AIR is PURE.
+database\ieee\TA163.wav DROP the TWO WHEN you ADD the FIGURES.
+database\ieee\TA164.wav A FILING CASE is NOW HARD to BUY.
+database\ieee\TA165.wav An ABRUPT START does NOT WIN the PRIZE.
+database\ieee\TA166.wav WOOD is BEST for MAKING TOYS and BLOCKS.
+database\ieee\TA167.wav The OFFICE PAINT was a DULL, SAD TAN.
+database\ieee\TA168.wav He KNEW the SKILL of the GREAT YOUNG ACTRESS.
+database\ieee\TA169.wav A RAG will SOAK UP SPILLED WATER.
+database\ieee\TA170.wav A SHOWER of DIRT FELL from the HOT PIPES.
+database\ieee\TA171.wav STEAM HISSED FROM the BROKEN VALVE.
+database\ieee\TA172.wav The CHILD ALMOST HURT the SMALL DOG.
+database\ieee\TA173.wav THERE was a SOUND of DRY LEAVES OUTSIDE.
+database\ieee\TA174.wav The SKY that MORNING was CLEAR and BRIGHT BLUE.
+database\ieee\TA175.wav TORN SCRAPS LITTERED the STONE FLOOR.
+database\ieee\TA176.wav SUNDAY is the BEST PART OF the WEEK.
+database\ieee\TA177.wav The DOCTOR CURED HIM with THESE PILLS.
+database\ieee\TA178.wav The NEW GIRL was FIRED TODAY at NOON.
+database\ieee\TA179.wav They FELT GAY when the SHIP ARRIVED in PORT.
+database\ieee\TA180.wav ADD the STORE'S ACCOUNT to the LAST CENT.
+database\ieee\TA181.wav ACID BURNS HOLES in WOOL CLOTH.
+database\ieee\TA182.wav FAIRY TALES SHOULD be FUN to WRITE.
+database\ieee\TA183.wav EIGHT MILES of WOODLAND BURNED to WASTE.
+database\ieee\TA184.wav The THIRD ACT was DULL and TIRED the PLAYERS.
+database\ieee\TA185.wav A YOUNG CHILD should NOT SUFFER FRIGHT.
+database\ieee\TA186.wav ADD the COLUMN and PUT the SUM HERE.
+database\ieee\TA187.wav WE ADMIRE and LOVE a GOOD COOK.
+database\ieee\TA188.wav THERE the FLOOD MARK is TEN INCHES.
+database\ieee\TA189.wav He CARVED a HEAD from the ROUND BLOCK of MARBLE.
+database\ieee\TA190.wav She HAS a SMART WAY of WEARING CLOTHES.
+database\ieee\TA191.wav The FRUIT of a FIG TREE is APPLE SHAPED.
+database\ieee\TA192.wav CORN COBS can be USED to KINDLE a FIRE.
+database\ieee\TA193.wav WHERE were THEY WHEN the NOISE STARTED.
+database\ieee\TA194.wav The PAPER BOX is FULL of THUMB TACKS.
+database\ieee\TA195.wav SELL your GIFT to a BUYER at a GOOD GAIN.
+database\ieee\TA196.wav The TONGS LAY BESIDE the ICE PAIL.
+database\ieee\TA197.wav The PETALS FALL with the NEXT PUFF of WIND.
+database\ieee\TA198.wav BRING your BEST COMPASS to the THIRD CLASS.
+database\ieee\TA199.wav They COULD LAUGH ALTHOUGH they WERE SAD.
+database\ieee\TA200.wav FARMERS CAME in to THRESH the OAT CROP.
+database\ieee\TA201.wav The BROWN HOUSE was ON FIRE to the ATTIC.
+database\ieee\TA202.wav The LURE is USED to CATCH TROUT and FLOUNDER.
+database\ieee\TA203.wav FLOAT the SOAP on TOP of the BATH WATER.
+database\ieee\TA204.wav A BLUE CRANE is a TALL WADING BIRD.
+database\ieee\TA205.wav A FRESH START will WORK SUCH WONDERS.
+database\ieee\TA206.wav The CLUB RENTED the RINK for the FIFTH NIGHT.
+database\ieee\TA207.wav AFTER the DANCE, they WENT STRAIGHT HOME.
+database\ieee\TA208.wav The HOSTESS TAUGHT the NEW MAID to SERVE.
+database\ieee\TA209.wav He WROTE his LAST NOVEL there AT the INN.
+database\ieee\TA210.wav EVEN the WORST will BEAT his LOW SCORE.
+database\ieee\TA211.wav The CEMENT had DRIED WHEN he MOVED IT.
+database\ieee\TA212.wav The LOSS of the SECOND SHIP was HARD to TAKE.
+database\ieee\TA213.wav The FLY MADE its WAY ALONG the WALL.
+database\ieee\TA214.wav DO THAT WITH a WOODEN STICK.
+database\ieee\TA215.wav LIVE WIRES SHOULD be KEPT COVERED.
+database\ieee\TA216.wav The LARGE HOUSE had HOT WATER TAPS.
+database\ieee\TA217.wav It is HARD to ERASE BLUE or RED INK.
+database\ieee\TA218.wav WRITE at ONCE or you MAY FORGET IT.
+database\ieee\TA219.wav The DOORKNOB was MADE of BRIGHT CLEAN BRASS.
+database\ieee\TA220.wav The WRECK OCCURRED by the BANK on MAIN STREET.
+database\ieee\TA221.wav A PENCIL with BLACK LEAD WRITES BEST.
+database\ieee\TA222.wav COAX a YOUNG CALF to DRINK from a BUCKET.
+database\ieee\TA223.wav SCHOOLS for LADIES TEACH CHARM and GRACE.
+database\ieee\TA224.wav The LAMP SHONE with a STEADY GREEN FLAME.
+database\ieee\TA225.wav They TOOK the AXE and the SAW TO the FOREST.
+database\ieee\TA226.wav The ANCIENT COIN was QUITE DULL and WORN.
+database\ieee\TA227.wav The SHAKY BARN FELL with a LOUD CRASH.
+database\ieee\TA228.wav JAZZ and SWING FANS like FAST MUSIC.
+database\ieee\TA229.wav RAKE the RUBBISH UP and then BURN IT.
+database\ieee\TA230.wav SLASH the GOLD CLOTH into FINE RIBBONS.
+database\ieee\TA231.wav TRY to HAVE the COURT DECIDE the CASE.
+database\ieee\TA232.wav They are PUSHED BACK EACH TIME they ATTACK.
+database\ieee\TA233.wav He BROKE his TIES with GROUPS of FORMER FRIENDS.
+database\ieee\TA234.wav They FLOATED on the RAFT to SUN their WHITE BACKS
+database\ieee\TA235.wav The MAP HAD an X that MEANT NOTHING.
+database\ieee\TA236.wav WHITINGS are SMALL FISH CAUGHT in NETS.
+database\ieee\TA237.wav SOME ADS SERVE to CHEAT BUYERS.
+database\ieee\TA238.wav JERK the ROPE and the BELL RINGS WEAKLY.
+database\ieee\TA239.wav A WAXED FLOOR MAKES us LOSE BALANCE.
+database\ieee\TA240.wav MADAM, THIS is the BEST BRAND of CORN.
+database\ieee\TA241.wav On the ISLANDS the SEA BREEZE is SOFT and MILD.
+database\ieee\TA242.wav The PLAY BEGAN as SOON as we SAT DOWN.
+database\ieee\TA243.wav This will LEAD the WORLD to MORE SOUND and FURY.
+database\ieee\TA244.wav ADD SALT BEFORE you FRY the EGG.
+database\ieee\TA245.wav The RUSH for FUNDS REACHED its PEAK TUESDAY.
+database\ieee\TA246.wav The BIRCH LOOKED STARK WHITE and LONESOME.
+database\ieee\TA247.wav The BOX is HELD by a BRIGHT RED SNAPPER.
+database\ieee\TA248.wav To MAKE PURE ICE, you FREEZE WATER.
+database\ieee\TA249.wav The FIRST WORM GETS SNAPPED EARLY.
+database\ieee\TA250.wav JUMP the FENCE and HURRY UP the BANK.
+database\ieee\TA251.wav YELL and CLAP as the CURTAIN SLIDES BACK.
+database\ieee\TA252.wav They are MEN WHO WALK the MIDDLE of the ROAD.
+database\ieee\TA253.wav BOTH BROTHERS WEAR the SAME SIZE.
+database\ieee\TA254.wav In SOME FORM or OTHER we NEED FUN.
+database\ieee\TA255.wav The PRINCE ORDERED his HEAD CHOPPED OFF.
+database\ieee\TA256.wav The HOUSES are BUILT of RED CLAY BRICKS.
+database\ieee\TA257.wav DUCKS FLY NORTH but LACK a COMPASS.
+database\ieee\TA258.wav FRUIT FLAVORS are USED in FIZZ DRINKS.
+database\ieee\TA259.wav These PILLS DO LESS GOOD than OTHERS.
+database\ieee\TA260.wav CANNED PEARS LACK FULL FLAVOR.
+database\ieee\TA261.wav The DARK POT HUNG in the FRONT CLOSET.
+database\ieee\TA262.wav CARRY the PAIL to the WALL and SPILL it THERE.
+database\ieee\TA263.wav The TRAIN BROUGHT our HERO to the BIG TOWN.
+database\ieee\TA264.wav WE are SURE that ONE WAR is ENOUGH.
+database\ieee\TA265.wav GRAY PAINT STRETCHED for MILES AROUND.
+database\ieee\TA266.wav The RUDE LAUGH FILLED the EMPTY ROOM.
+database\ieee\TA267.wav HIGH SEATS are BEST for FOOTBALL FANS.
+database\ieee\TA268.wav TEA SERVED from the BROWN JUG is TASTY.
+database\ieee\TA269.wav A DASH of PEPPER SPOILS BEEF STEW.
+database\ieee\TA270.wav A ZESTFUL FOOD is the HOT CROSS BUN.
+database\ieee\TA271.wav The HORSE TROTTED around the FIELD at a BRISK PACE.
+database\ieee\TA272.wav FIND the TWIN who STOLE the PEARL NECKLACE.
+database\ieee\TA273.wav CUT the CORD that BINDS the BOX TIGHTLY.
+database\ieee\TA274.wav The RED TAPE BOUND the SMUGGLED FOOD.
+database\ieee\TA275.wav LOOK in the CORNER to FIND the TAN SHIRT.
+database\ieee\TA276.wav The COLD DRIZZLE will HALT the BOND DRIVE.
+database\ieee\TA277.wav NINE MEN were HIRED to DIG the RUINS.
+database\ieee\TA278.wav The JUNK YARD HAD a MOLDY SMELL.
+database\ieee\TA279.wav The FLINT SPUTTERED and LIT a PINE TORCH.
+database\ieee\TA280.wav SOAK the CLOTH and DROWN the SHARP ODOR.
+database\ieee\TA281.wav The SHELVES were BARE of BOTH JAM or CRACKERS.
+database\ieee\TA282.wav A JOY to EVERY CHILD is the SWAN BOAT.
+database\ieee\TA283.wav ALL SAT FROZEN and WATCHED the SCREEN.
+database\ieee\TA284.wav A CLOUD of DUST STUNG his TENDER EYES.
+database\ieee\TA285.wav To REACH the END he NEEDS MUCH COURAGE.
+database\ieee\TA286.wav SHAPE the CLAY GENTLY into BLOCK FORM.
+database\ieee\TA287.wav A RIDGE on a SMOOTH SURFACE is a BUMP or FLAW.
+database\ieee\TA288.wav HEDGE APPLES may STAIN your HANDS GREEN.
+database\ieee\TA289.wav QUENCH your THIRST, THEN EAT the CRACKERS.
+database\ieee\TA290.wav TIGHT CURLS get LIMP on RAINY DAYS.
+database\ieee\TA291.wav The MUTE MUFFLED the HIGH TONES of the HORN.
+database\ieee\TA292.wav The GOLD RING FITS only a PIERCED EAR.
+database\ieee\TA293.wav The OLD PAN was COVERED with HARD FUDGE.
+database\ieee\TA294.wav WATCH the LOG FLOAT in the WIDE RIVER.
+database\ieee\TA295.wav The NODE on the STALK of WHEAT GREW DAILY.
+database\ieee\TA296.wav The HEAP of FALLEN LEAVES was SET on FIRE.
+database\ieee\TA297.wav WRITE FAST if you WANT to FINISH EARLY.
+database\ieee\TA298.wav His SHIRT was CLEAN but ONE BUTTON was GONE.
+database\ieee\TA299.wav The BARREL of BEER was a BREW of MALT and HOPS.
+database\ieee\TA300.wav TIN CANS are ABSENT from STORE SHELVES.
+database\ieee\TA301.wav SLIDE the BOX INTO that EMPTY SPACE.
+database\ieee\TA302.wav The PLANT GREW LARGE and GREEN in the WINDOW.
+database\ieee\TA303.wav The BEAM DROPPED DOWN on the WORKMEN'S HEAD.
+database\ieee\TA304.wav PINK CLOUDS FLOATED WITH the BREEZE.
+database\ieee\TA305.wav She DANCED LIKE a SWAN, TALL and GRACEFUL.
+database\ieee\TA306.wav The TUBE was BLOWN and the TIRE FLAT and USELESS.
+database\ieee\TA307.wav It is LATE MORNING on the OLD WALL CLOCK.
+database\ieee\TA308.wav LET'S all JOIN as we SING the LAST CHORUS.
+database\ieee\TA309.wav The LAST SWITCH CANNOT be TURNED OFF.
+database\ieee\TA310.wav The FIGHT will END in JUST SIX MINUTES.
+database\ieee\TA311.wav The STORE WALLS were LINED with COLORED FROCKS.
+database\ieee\TA312.wav The PEACE LEAGUE MET to DISCUSS their PLANS.
+database\ieee\TA313.wav The RISE to FAME of a PERSON TAKES LUCK.
+database\ieee\TA314.wav PAPER is SCARCE, so WRITE with MUCH CARE.
+database\ieee\TA315.wav The QUICK FOX JUMPED on the SLEEPING CAT.
+database\ieee\TA316.wav The NOZZLE of the FIRE HOSE was BRIGHT BRASS.
+database\ieee\TA317.wav SCREW the ROUND CAP on as TIGHT as NEEDED.
+database\ieee\TA318.wav TIME BRINGS US MANY CHANGES.
+database\ieee\TA319.wav The PURPLE TIE was TEN YEARS OLD.
+database\ieee\TA320.wav MEN THINK and PLAN and SOMETIMES ACT.
+database\ieee\TA321.wav FILL the INK JAR with STICKY GLUE.
+database\ieee\TA322.wav He SMOKES a BIG PIPE with STRONG CONTENTS.
+database\ieee\TA323.wav We NEED GRAIN to KEEP our MULES HEALTHY.
+database\ieee\TA324.wav PACK the RECORDS in a NEAT THIN CASE.
+database\ieee\TA325.wav The CRUNCH of FEET in the SNOW was the ONLY SOUND.
+database\ieee\TA326.wav The COPPER BOWL SHONE in the SUN'S RAYS.
+database\ieee\TA327.wav BOARDS will WARP UNLESS KEPT DRY.
+database\ieee\TA328.wav The PLUSH CHAIR LEANED AGAINST the WALL.
+database\ieee\TA329.wav GLASS will CLINK when STRUCK BY METAL.
+database\ieee\TA330.wav BATHE and RELAX in the COOL GREEN GRASS.
+database\ieee\TA331.wav NINE ROWS of SOLDIERS STOOD in LINE.
+database\ieee\TA332.wav The BEACH is DRY and SHALLOW at LOW TIDE.
+database\ieee\TA333.wav The IDEA is to SEW BOTH EDGES STRAIGHT.
+database\ieee\TA334.wav The KITTEN CHASED the DOG DOWN the STREET.
+database\ieee\TA335.wav PAGES BOUND in CLOTH MAKE a BOOK.
+database\ieee\TA336.wav TRY to TRACE the FINE LINES of the PAINTING.
+database\ieee\TA337.wav WOMEN FORM LESS than HALF of the GROUP.
+database\ieee\TA338.wav The ZONES MERGE in the CENTRAL PART of TOWN.
+database\ieee\TA339.wav A GEM in the ROUGH NEEDS WORK to POLISH.
+database\ieee\TA340.wav CODE is USED WHEN SECRETS are SENT.
+database\ieee\TA341.wav MOST of the NEWS is EASY for US to HEAR.
+database\ieee\TA342.wav He USED the LATHE to MAKE BRASS OBJECTS.
+database\ieee\TA343.wav The VANE on TOP of the POLE REVOLVED in the WIND.
+database\ieee\TA344.wav MINCE PIE is a DISH SERVED to CHILDREN.
+database\ieee\TA345.wav The CLAN GATHERED on EACH DULL NIGHT.
+database\ieee\TA346.wav LET it BURN, it GIVES us WARMTH and COMFORT.
+database\ieee\TA347.wav A CASTLE BUILT from SAND FAILS to ENDURE.
+database\ieee\TA348.wav A CHILD'S WIT SAVED the DAY for US.
+database\ieee\TA349.wav TACK the STRIP of CARPET to the WORN FLOOR.
+database\ieee\TA350.wav NEXT TUESDAY WE MUST VOTE.
+database\ieee\TA351.wav POUR the STEW from the POT INTO the PLATE.
+database\ieee\TA352.wav EACH PENNY SHONE LIKE NEW.
+database\ieee\TA353.wav The MAN WENT to the WOODS to GATHER STICKS.
+database\ieee\TA354.wav The DIRT PILES were LINED ALONG the ROAD.
+database\ieee\TA355.wav The LOGS FELL and TUMBLED into the CLEAR STREAM.
+database\ieee\TA356.wav JUST HOIST it UP and TAKE it AWAY.
+database\ieee\TA357.wav A RIPE PLUM is FIT for a KING'S PALATE.
+database\ieee\TA358.wav OUR PLANS RIGHT NOW are HAZY.
+database\ieee\TA359.wav BRASS RINGS are SOLD by THESE NATIVES.
+database\ieee\TA360.wav It TAKES a GOOD TRAP to CAPTURE a BEAR.
+database\ieee\TA361.wav FEED the WHITE MOUSE some FLOWER SEEDS.
+database\ieee\TA362.wav The THAW CAME EARLY and FREED the STREAM.
+database\ieee\TA363.wav He TOOK the LEAD and KEPT it the WHOLE DISTANCE.
+database\ieee\TA364.wav The KEY YOU DESIGNED will FIT the LOCK.
+database\ieee\TA365.wav PLEAD to the COUNCIL to FREE the POOR THIEF.
+database\ieee\TA366.wav BETTER HASH is MADE of RARE BEEF.
+database\ieee\TA367.wav THIS PLANK was MADE for WALKING ON.
+database\ieee\TA368.wav The LAKE SPARKLED in the RED HOT SUN.
+database\ieee\TA369.wav He CRAWLED WITH CARE ALONG the LEDGE.
+database\ieee\TA370.wav TEND the SHEEP WHILE the DOG WANDERS.
+database\ieee\TA371.wav It TAKES a LOT of HELP to FINISH THESE.
+database\ieee\TA372.wav MARK the SPOT with a SIGN PAINTED RED.
+database\ieee\TA373.wav TAKE TWO SHARES as a FAIR PROFIT.
+database\ieee\TA374.wav The FUR of CATS GOES by MANY NAMES.
+database\ieee\TA375.wav NORTH WINDS BRING COLDS and FEVERS.
+database\ieee\TA376.wav He ASKS NO PERSON to VOUCH for HIM.
+database\ieee\TA377.wav GO NOW and COME HERE LATER.
+database\ieee\TA378.wav A SASH of GOLD SILK will TRIM her DRESS.
+database\ieee\TA379.wav SOAP can WASH MOST DIRT AWAY.
+database\ieee\TA380.wav THAT MOVE MEANS the GAME is OVER.
+database\ieee\TA381.wav He WROTE DOWN a LONG LIST of ITEMS.
+database\ieee\TA382.wav A SIEGE WILL CRACK the STRONG DEFENSE.
+database\ieee\TA383.wav GRAPE JUICE and WATER MIX WELL.
+database\ieee\TA384.wav ROADS are PAVED WITH STICKY TAR.
+database\ieee\TA385.wav FAKE STONES SHINE but COST LITTLE.
+database\ieee\TA386.wav The DRIP of the RAIN MADE a PLEASANT SOUND.
+database\ieee\TA387.wav SMOKE POURED OUT of EVERY CRACK.
+database\ieee\TA388.wav SERVE the HOT RUM to the TIRED HEROES.
+database\ieee\TA389.wav MUCH of the STORY MAKES GOOD SENSE.
+database\ieee\TA390.wav The SUN CAME up to LIGHT the EASTERN SKY.
+database\ieee\TA391.wav HEAVE the LINE OVER the PORT SIDE.
+database\ieee\TA392.wav A LATHE CUTS and TRIMS ANY WOOD.
+database\ieee\TA393.wav It's a DENSE CROWD in TWO DISTINCT WAYS.
+database\ieee\TA394.wav His HIP STRUCK the KNEE of the NEXT PLAYER.
+database\ieee\TA395.wav The STALE SMELL of OLD BEER LINGERS.
+database\ieee\TA396.wav The DESK was FIRM ON the SHAKY FLOOR.
+database\ieee\TA397.wav It TAKES HEAT to BRING OUT the ODOR.
+database\ieee\TA398.wav BEEF is SCARCER THAN SOME LAMB.
+database\ieee\TA399.wav RAISE the SAIL and STEER the SHIP NORTHWARD.
+database\ieee\TA400.wav A CONE COSTS FIVE CENTS on MONDAYS.
+database\ieee\TA401.wav A POD is what PEAS ALWAYS GROW IN.
+database\ieee\TA402.wav JERK the DART FROM the CORK TARGET.
+database\ieee\TA403.wav NO CEMENT will HOLD HARD WOOD.
+database\ieee\TA404.wav We NOW HAVE a NEW BASE for SHIPPING.
+database\ieee\TA405.wav A LIST of NAMES is CARVED AROUND the BASE.
+database\ieee\TA406.wav The SHEEP were LED HOME BY a DOG.
+database\ieee\TA407.wav THREE for a DIME, the YOUNG PEDDLER CRIED.
+database\ieee\TA408.wav The SENSE of SMELL is BETTER THAN that of TOUCH.
+database\ieee\TA409.wav NO HARDSHIP seemed to KEEP HIM SAD.
+database\ieee\TA410.wav GRACE MAKES UP for LACK of BEAUTY.
+database\ieee\TA411.wav NUDGE GENTLY but WAKE HER NOW.
+database\ieee\TA412.wav The NEWS STRUCK DOUBT into RESTLESS MINDS.
+database\ieee\TA413.wav ONCE WE STOOD BESIDE the SHORE.
+database\ieee\TA414.wav A CHINK in the WALL ALLOWED a DRAFT to BLOW.
+database\ieee\TA415.wav FASTEN TWO PINS on EACH SIDE.
+database\ieee\TA416.wav A COLD DIP RESTORES HEALTH and ZEST.
+database\ieee\TA417.wav He TAKES the OATH of OFFICE EACH MARCH.
+database\ieee\TA418.wav The SAND DRIFTS OVER the SILL of the old HOUSE.
+database\ieee\TA419.wav The POINT of the STEEL PEN was BENT and TWISTED.
+database\ieee\TA420.wav THERE is a LAG BETWEEN THOUGHT and ACT.
+database\ieee\TA421.wav SEED is NEEDED to PLANT the SPRING CORN.
+database\ieee\TA422.wav DRAW the CHART with HEAVY BLACK LINES.
+database\ieee\TA423.wav The BOY OWED his PAL THIRTY CENTS.
+database\ieee\TA424.wav The CHAP SKIPPED INTO the CROWD and was LOST.
+database\ieee\TA425.wav HATS are WORN to TEA and NOT to DINNER.
+database\ieee\TA426.wav The RAMP LED UP to the WIDE HIGHWAY.
+database\ieee\TA427.wav BEAT the DUST from the RUG ONTO the LAWN.
+database\ieee\TA428.wav SAY it SLOWLY but MAKE it RING CLEAR.
+database\ieee\TA429.wav The STRAW NEST HOUSED FIVE ROBINS.
+database\ieee\TA430.wav SCREEN the PORCH with WOVEN STRAW MATS.
+database\ieee\TA431.wav THIS HORSE will NOSE his WAY to the FINISH.
+database\ieee\TA432.wav The DRY WAX PROTECTS the DEEP SCRATCH.
+database\ieee\TA433.wav He PICKED UP the DICE for a SECOND ROLL.
+database\ieee\TA434.wav THESE COINS will be NEEDED to PAY his DEBT.
+database\ieee\TA435.wav The NAG PULLED the FRAIL CART ALONG.
+database\ieee\TA436.wav TWIST the VALVE and RELEASE HOT STEAM.
+database\ieee\TA437.wav The VAMP of the SHOE HAD an GOLD BUCKLE.
+database\ieee\TA438.wav The SMELL of BURNED RAGS ITCHES my NOSE.
+database\ieee\TA439.wav NEW PANTS LACK CUFFS and POCKETS.
+database\ieee\TA440.wav The MARSH will FREEZE WHEN COLD ENOUGH.
+database\ieee\TA441.wav They SLICE the SAUSAGE THIN WITH a KNIFE.
+database\ieee\TA442.wav The BLOOM of the ROSE LASTS a FEW DAYS.
+database\ieee\TA443.wav A GRAY MARE WALKED BEFORE the COLT.
+database\ieee\TA444.wav BREAKFAST BUNS are FINE with a HOT DRINK.
+database\ieee\TA445.wav BOTTLES HOLD FOUR KINDS of RUM.
+database\ieee\TA446.wav The MAN WORE a FEATHER in his FELT HAT.
+database\ieee\TA447.wav He WHEELED the BIKE PAST the WINDING ROAD.
+database\ieee\TA448.wav DROP the ASHES on the WORN OLD RUG.
+database\ieee\TA449.wav The DESK and BOTH CHAIRS were PAINTED TAN.
+database\ieee\TA450.wav THROW out the USED PAPER CUP and PLATE.
+database\ieee\TA451.wav A CLEAN NECK MEANS a NEAT COLLAR.
+database\ieee\TA452.wav The COUCH COVER and HALL DRAPES were BLUE.
+database\ieee\TA453.wav The STEMS of the TALL GLASSES CRACKED and BROKE.
+database\ieee\TA454.wav The WALL PHONE RANG LOUD and OFTEN.
+database\ieee\TA455.wav The CLOTHES DRIED on a THIN WOODEN RACK.
+database\ieee\TA456.wav TURN on the LANTERN WHICH GIVES us LIGHT.
+database\ieee\TA457.wav The CLEAT SANK DEEPLY into the SOFT TURF.
+database\ieee\TA458.wav The BILLS were MAILED PROMPTLY on the TENTH of the MONTH.
+database\ieee\TA459.wav To HAVE is BETTER THAN to WAIT and HOPE.
+database\ieee\TA460.wav The PRICE is FAIR for a GOOD ANTIQUE CLOCK.
+database\ieee\TA461.wav The MUSIC PLAYED ON WHILE they TALKED.
+database\ieee\TA462.wav DISPENSE with a VEST on a DAY LIKE THIS.
+database\ieee\TA463.wav The BUNCH of GRAPES was PRESSED INTO WINE.
+database\ieee\TA464.wav He SENT the FIGS, but KEPT the RIPE CHERRIES.
+database\ieee\TA465.wav The HINGE on the DOOR CREAKED with OLD AGE.
+database\ieee\TA466.wav The SCREEN BEFORE the FIRE KEPT in the SPARKS.
+database\ieee\TA467.wav FLY by NIGHT, and you WASTE LITTLE TIME.
+database\ieee\TA468.wav THICK GLASSES HELPED him READ the PRINT.
+database\ieee\TA469.wav BIRTH and DEATH MARK the LIMITS of LIFE.
+database\ieee\TA470.wav The CHAIR LOOKED STRONG but had NO BOTTOM.
+database\ieee\TA471.wav The KITE FLEW WILDLY in the HIGH WIND.
+database\ieee\TA472.wav A FUR MUFF is STYLISH ONCE MORE.
+database\ieee\TA473.wav The TIN BOX HELD PRICELESS STONES.
+database\ieee\TA474.wav We NEED an END of ALL SUCH MATTER.
+database\ieee\TA475.wav The CASE WAS PUZZLING to the OLD and WISE.
+database\ieee\TA476.wav The BRIGHT LANTERNS were GAY on the DARK LAWN.
+database\ieee\TA477.wav We DON'T GET much MONEY but we HAVE FUN.
+database\ieee\TA478.wav The YOUTH DROVE with ZEST, but LITTLE SKILL.
+database\ieee\TA479.wav FIVE YEARS he LIVED with a SHAGGY DOG.
+database\ieee\TA480.wav A FENCE CUTS THROUGH the CORNER LOT.
+database\ieee\TA481.wav The WAY to SAVE MONEY is NOT to SPEND much.
+database\ieee\TA482.wav SHUT the HATCH BEFORE the WAVES PUSH it in.
+database\ieee\TA483.wav The ODOR of SPRING makes YOUNG HEARTS JUMP.
+database\ieee\TA484.wav CRACK the WALNUT with your SHARP SIDE TEETH.
+database\ieee\TA485.wav He OFFERED PROOF in the FORM of a LARGE CHART.
+database\ieee\TA486.wav SEND the STUFF in a THICK PAPER BAG.
+database\ieee\TA487.wav A QUART of MILK is WATER for the MOST PART.
+database\ieee\TA488.wav They TOLD WILD TALES to FRIGHTEN HIM.
+database\ieee\TA489.wav The THREE STORY HOUSE was BUILT of STONE.
+database\ieee\TA490.wav In the REAR of the GROUND FLOOR was a LARGE PASSAGE.
+database\ieee\TA491.wav A MAN in a BLUE SWEATER SAT at the DESK.
+database\ieee\TA492.wav OATS are a FOOD EATEN by HORSE and MAN.
+database\ieee\TA493.wav THEIR EYELIDS DROOP for WANT of SLEEP.
+database\ieee\TA494.wav A SIP of TEA REVIVES his TIRED FRIEND.
+database\ieee\TA495.wav There are MANY WAYS to DO THESE THINGS.
+database\ieee\TA496.wav TUCK the SHEET UNDER the EDGE of the MAT.
+database\ieee\TA497.wav A FORCE EQUAL to that WOULD MOVE the EARTH.
+database\ieee\TA498.wav WE LIKE to SEE CLEAR WEATHER.
+database\ieee\TA499.wav The WORK of the TAILOR is SEEN on EACH SIDE.
+database\ieee\TA500.wav TAKE a CHANCE and WIN a CHINA DOLL.
+database\ieee\TA501.wav SHAKE the DUST from YOUR SHOES, STRANGER.
+database\ieee\TA502.wav SHE was KIND to SICK OLD PEOPLE.
+database\ieee\TA503.wav The SQUARE WOODEN CRATE was PACKED to be SHIPPED.
+database\ieee\TA504.wav The DUSTY BENCH STOOD by the STONE WALL.
+database\ieee\TA505.wav We DRESS to SUIT the WEATHER of MOST DAYS.
+database\ieee\TA506.wav SMILE WHEN you SAY NASTY WORDS.
+database\ieee\TA507.wav A BOWL of RICE is FREE with CHICKEN STEW.
+database\ieee\TA508.wav The WATER in this WELL is a SOURCE of GOOD HEALTH.
+database\ieee\TA509.wav TAKE SHELTER in this TENT, but KEEP STILL.
+database\ieee\TA510.wav That GUY is the WRITER of a FEW BANNED BOOKS.
+database\ieee\TA511.wav The LITTLE TALES THEY TELL are FALSE.
+database\ieee\TA512.wav The DOOR was BARRED, LOCKED, and BOLTED as WELL.
+database\ieee\TA513.wav RIPE PEARS are FIT for a QUEEN'S TABLE.
+database\ieee\TA514.wav A BIG WET STAIN was on the ROUND CARPET.
+database\ieee\TA515.wav The KITE DIPPED and SWAYED, but STAYED ALOFT.
+database\ieee\TA516.wav The PLEASANT HOURS FLY by much TOO SOON.
+database\ieee\TA517.wav The ROOM was CROWDED WITH a WILD MOB.
+database\ieee\TA518.wav This STRONG ARM SHALL SHIELD your HONOR.
+database\ieee\TA519.wav She BLUSHED WHEN he GAVE her a WHITE ORCHID.
+database\ieee\TA520.wav The BEETLE DRONED in the HOT JUNE SUN.
+database\ieee\TA521.wav PRESS the PEDAL WITH your LEFT FOOT.
+database\ieee\TA522.wav NEAT PLANS FAIL WITHOUT LUCK.
+database\ieee\TA523.wav The BLACK TRUNK FELL FROM the LANDING.
+database\ieee\TA524.wav The BANK PRESSED FOR PAYMENT of the DEBT.
+database\ieee\TA525.wav The THEFT of the PEARL PIN was KEPT SECRET.
+database\ieee\TA526.wav SHAKE HANDS WITH this FRIENDLY CHILD.
+database\ieee\TA527.wav The VAST SPACE STRETCHED into the FAR DISTANCE.
+database\ieee\TA528.wav A RICH FARM is RARE in this SANDY WASTE.
+database\ieee\TA529.wav His WIDE GRIN EARNED MANY FRIENDS.
+database\ieee\TA530.wav FLAX MAKES a FINE BRAND of PAPER.
+database\ieee\TA531.wav HURDLE the PIT with the AID of a LONG POLE.
+database\ieee\TA532.wav A STRONG BID may SCARE your PARTNER STIFF.
+database\ieee\TA533.wav Even a JUST CAUSE NEEDS POWER to WIN.
+database\ieee\TA534.wav PEEP UNDER the TENT and SEE the CLOWN.
+database\ieee\TA535.wav The LEAF DRIFTS ALONG with a SLOW SPIN.
+database\ieee\TA536.wav CHEAP CLOTHES are FLASHY but DON'T LAST.
+database\ieee\TA537.wav A THING of SMALL NOTE can CAUSE DESPAIR.
+database\ieee\TA538.wav FLOOD the MAILS with REQUESTS for THIS BOOK.
+database\ieee\TA539.wav A THICK COAT of BLACK PAINT COVERED all.
+database\ieee\TA540.wav The PENCIL was CUT to be SHARP at BOTH ENDS.
+database\ieee\TA541.wav Those LAST WORDS WERE a STRONG STATEMENT.
+database\ieee\TA542.wav He WROTE his NAME BOLDLY at the TOP of the SHEET.
+database\ieee\TA543.wav DILL PICKLES are SOUR but TASTE FINE.
+database\ieee\TA544.wav DOWN that ROAD is the WAY to the GRAIN FARMER.
+database\ieee\TA545.wav EITHER MUD or DUST are FOUND at all TIMES.
+database\ieee\TA546.wav The BEST METHOD is to FIX it in PLACE with CLIPS.
+database\ieee\TA547.wav IF you MUMBLE YOUR SPEECH will be LOST.
+database\ieee\TA548.wav At NIGHT the ALARM ROUSED him from a DEEP SLEEP.
+database\ieee\TA549.wav READ JUST WHAT the METER SAYS.
+database\ieee\TA550.wav FILL your PACK with BRIGHT TRINKETS for the POOR.
+database\ieee\TA551.wav The SMALL RED NEON LAMP went OUT.
+database\ieee\TA552.wav CLAMS are SMALL, ROUND, SOFT, and TASTY.
+database\ieee\TA553.wav The FAN WHIRLED its ROUND BLADES SOFTLY.
+database\ieee\TA554.wav The LINE WHERE the EDGES JOIN was CLEAN.
+database\ieee\TA555.wav BREATHE DEEP and SMELL the PINEY AIR.
+database\ieee\TA556.wav It MATTERS NOT if he READS these WORDS or THOSE.
+database\ieee\TA557.wav A BROWN LEATHER BAG HUNG from its STRAP.
+database\ieee\TA558.wav A TOAD and a FROG are HARD to TELL APART.
+database\ieee\TA559.wav A WHITE SILK JACKET goes with ANY SHOES.
+database\ieee\TA560.wav A BREAK in the DAM ALMOST CAUSED a FLOOD.
+database\ieee\TA561.wav PAINT the SOCKETS in the WALL DULL GREEN.
+database\ieee\TA562.wav The CHILD CRAWLED INTO the DENSE GRASS.
+database\ieee\TA563.wav BRIBES FAIL where HONEST MEN WORK.
+database\ieee\TA564.wav TRAMPLE the SPARK, ELSE the FLAMES will SPREAD.
+database\ieee\TA565.wav The HILT of the SWORD was CARVED with FINE DESIGNS.
+database\ieee\TA566.wav A ROUND HOLE was DRILLED through the THIN BOARD.
+database\ieee\TA567.wav FOOTPRINTS SHOWED the PATH he TOOK up the BEACH.
+database\ieee\TA568.wav SHE was WAITING at MY FRONT LAWN.
+database\ieee\TA569.wav A VENT NEAR the EDGE brought in FRESH AIR.
+database\ieee\TA570.wav PROD the OLD MULE with a CROOKED STICK.
+database\ieee\TA571.wav It is a BAND of STEEL THREE INCHES WIDE.
+database\ieee\TA572.wav The PIPE RAN ALMOST the LENGTH of the DITCH.
+database\ieee\TA573.wav It was HIDDEN from SIGHT by a MASS of LEAVES and SHRUBS.
+database\ieee\TA574.wav The WEIGHT of the PACKAGE was SEEN on the HIGH SCALE.
+database\ieee\TA575.wav WAKE and RISE, and STEP into the GREEN OUTDOORS.
+database\ieee\TA576.wav The GREEN LIGHT in the BROWN BOX FLICKERED.
+database\ieee\TA577.wav The BRASS TUBE CIRCLED the HIGH WALL.
+database\ieee\TA578.wav The LOBES of her EARS were PIERCED to HOLD RINGS.
+database\ieee\TA579.wav HOLD the HAMMER near the END to DRIVE the NAIL.
+database\ieee\TA580.wav NEXT SUNDAY IS the TWELFTH of the MONTH.
+database\ieee\TA581.wav EVERY WORD and PHRASE he SPEAKS is TRUE.
+database\ieee\TA582.wav He PUT his LAST CARTRIDGE into the GUN and FIRED.
+database\ieee\TA583.wav They TOOK their KIDS FROM the PUBLIC SCHOOL.
+database\ieee\TA584.wav DRIVE the SCREW STRAIGHT INTO the WOOD.
+database\ieee\TA585.wav KEEP the HATCH TIGHT and the WATCH CONSTANT.
+database\ieee\TA586.wav SEVER the TWINE with a QUICK SNIP of the KNIFE.
+database\ieee\TA587.wav PAPER will DRY OUT WHEN WET.
+database\ieee\TA588.wav SLIDE the CATCH BACK and OPEN the DESK.
+database\ieee\TA589.wav HELP the WEAK to PRESERVE THEIR STRENGTH.
+database\ieee\TA590.wav A SULLEN SMILE GETS FEW FRIENDS.
+database\ieee\TA591.wav STOP WHISTLING and WATCH the BOYS MARCH.
+database\ieee\TA592.wav JERK the CORD, and OUT TUMBLES the GOLD.
+database\ieee\TA593.wav SLIDE the TRAY ACROSS the GLASS TOP.
+database\ieee\TA594.wav The CLOUD MOVED in a STATELY WAY and was GONE.
+database\ieee\TA595.wav LIGHT MAPLE MAKES for a SWELL ROOM.
+database\ieee\TA596.wav SET the PIECE HERE and SAY NOTHING.
+database\ieee\TA597.wav DULL STORIES MAKE HER LAUGH.
+database\ieee\TA598.wav A STIFF CORD WILL do to FASTEN your SHOE.
+database\ieee\TA599.wav GET the TRUST FUND to the BANK EARLY.
+database\ieee\TA600.wav CHOOSE BETWEEN the HIGH ROAD and the LOW.
+database\ieee\TA601.wav A PLEA for FUNDS SEEMS to COME AGAIN.
+database\ieee\TA602.wav He LENT his COAT to the TALL GAUNT STRANGER.
+database\ieee\TA603.wav There is a STRONG CHANCE it will HAPPEN ONCE MORE.
+database\ieee\TA604.wav The DUKE LEFT the PARK in a SILVER COACH.
+database\ieee\TA605.wav GREET the NEW GUESTS and LEAVE QUICKLY.
+database\ieee\TA606.wav WHEN the FROST has COME it is TIME for TURKEY.
+database\ieee\TA607.wav SWEET WORDS WORK BETTER than FIERCE.
+database\ieee\TA608.wav A THIN STRIPE RUNS DOWN the MIDDLE.
+database\ieee\TA609.wav A SIX COMES up MORE OFTEN than a TEN.
+database\ieee\TA610.wav LUSH FERN GROW on the LOFTY ROCKS.
+database\ieee\TA611.wav The RAM SCARED the SCHOOL CHILDREN OFF.
+database\ieee\TA612.wav The TEAM with the BEST TIMING LOOKS GOOD.
+database\ieee\TA613.wav The FARMER SWAPPED his HORSE for a BROWN OX.
+database\ieee\TA614.wav SIT on the PERCH and TELL the OTHERS what to DO.
+database\ieee\TA615.wav A STEEP TRAIL is PAINFUL for OUR FEET.
+database\ieee\TA616.wav The EARLY PHASE of LIFE MOVES FAST.
+database\ieee\TA617.wav GREEN MOSS GROWS on the NORTHERN SIDE.
+database\ieee\TA618.wav TEA in THIN CHINA has a SWEET TASTE.
+database\ieee\TA619.wav PITCH the STRAW THROUGH the DOOR of the STABLE.
+database\ieee\TA620.wav The LATCH on the BACK GATE NEEDS a NAIL.
+database\ieee\TA621.wav The GOOSE was BROUGHT STRAIGHT from the OLD MARKET.
+database\ieee\TA622.wav The SINK is the THING in WHICH we PILE DISHES.
+database\ieee\TA623.wav A WHIFF of it will CURE the MOST STUBBORN COLD.
+database\ieee\TA624.wav The FACTS DON'T ALWAYS SHOW who is RIGHT.
+database\ieee\TA625.wav She FLAPS HER CAPE as she PARADES the STREET.
+database\ieee\TA626.wav The LOSS of the CRUISER WAS a BLOW to the FLEET.
+database\ieee\TA627.wav LOOP the BRAID to the LEFT and THEN OVER.
+database\ieee\TA628.wav PLEAD with the LAWYER to DROP the LOST CAUSE.
+database\ieee\TA629.wav CALVES THRIVE on TENDER SPRING GRASS.
+database\ieee\TA630.wav POST NO BILLS on this OFFICE WALL.
+database\ieee\TA631.wav TEAR a THIN SHEET from the YELLOW PAD.
+database\ieee\TA632.wav A CRUISE in warm WATERS in a SLEEK YACHT is FUN.
+database\ieee\TA633.wav A STREAK of COLOR ran DOWN the LEFT EDGE.
+database\ieee\TA634.wav It was DONE BEFORE the BOY could SEE IT.
+database\ieee\TA635.wav CROUCH BEFORE you JUMP or MISS the MARK.
+database\ieee\TA636.wav PACK the KITS and DON'T FORGET the SALT.
+database\ieee\TA637.wav The SQUARE PEG will SETTLE in the ROUND HOLE.
+database\ieee\TA638.wav FINE SOAP SAVES TENDER SKIN.
+database\ieee\TA639.wav POACHED EGGS and TEA MUST SUFFICE.
+database\ieee\TA640.wav BAD NERVES are JANGLED by a DOOR SLAM.
+database\ieee\TA641.wav SHIP MAPS are DIFFERENT FROM those for PLANES.
+database\ieee\TA642.wav DIMES SHOWERED DOWN from ALL SIDES.
+database\ieee\TA643.wav They SANG the SAME TUNES at EACH PARTY.
+database\ieee\TA644.wav The SKY in the WEST is TINGED with ORANGE RED.
+database\ieee\TA645.wav The PODS of PEAS FERMENT in BARE FIELDS.
+database\ieee\TA646.wav The HORSE BALKED and THREW the TALL RIDER.
+database\ieee\TA647.wav The HITCH BETWEEN the HORSE and CART BROKE.
+database\ieee\TA648.wav PILE the COAL HIGH in the SHED CORNER.
+database\ieee\TA649.wav A GOLD VASE is BOTH RARE and COSTLY.
+database\ieee\TA650.wav The KNIFE was HUNG INSIDE its BRIGHT SHEATH.
+database\ieee\TA651.wav The RAREST SPICE comes FROM the FAR EAST.
+database\ieee\TA652.wav The ROOF SHOULD be TILTED at a SHARP SLANT.
+database\ieee\TA653.wav A SMATTER of FRENCH is WORSE THAN NONE.
+database\ieee\TA654.wav The MULE TROD the TREADMILL DAY and NIGHT.
+database\ieee\TA655.wav The AIM of the CONTEST is to RAISE a GREAT FUND.
+database\ieee\TA656.wav To SEND it NOW in LARGE AMOUNTS is BAD.
+database\ieee\TA657.wav There is a FINE HARD TANG in SALTY AIR.
+database\ieee\TA658.wav COD is the MAIN BUSINESS of the NORTH SHORE.
+database\ieee\TA659.wav The SLAB was HEWN from HEAVY BLOCKS of SLATE.
+database\ieee\TA660.wav DUNK the STALE BISCUITS into STRONG DRINK.
+database\ieee\TA661.wav HANG TINSEL FROM BOTH BRANCHES.
+database\ieee\TA662.wav CAP the JAR with a TIGHT BRASS COVER.
+database\ieee\TA663.wav The POOR BOY MISSED the BOAT AGAIN.
+database\ieee\TA664.wav Be SURE to SET the LAMP FIRMLY in the HOLE.
+database\ieee\TA665.wav PICK a CARD and SLIP it UNDER the PACK.
+database\ieee\TA666.wav A ROUND MAT will COVER the DULL SPOT.
+database\ieee\TA667.wav The FIRST PART of the PLAN NEEDS CHANGING.
+database\ieee\TA668.wav A GOOD BOOK INFORMS of what we OUGHT to KNOW.
+database\ieee\TA669.wav The MAIL COMES in THREE BATCHES per DAY.
+database\ieee\TA670.wav You CANNOT BREW TEA in a COLD POT.
+database\ieee\TA671.wav DOTS of LIGHT BETRAYED the BLACK CAT.
+database\ieee\TA672.wav PUT the CHART on the MANTEL and TACK it DOWN.
+database\ieee\TA673.wav The NIGHT SHIFT men RATE EXTRA PAY.
+database\ieee\TA674.wav The RED PAPER BRIGHTENED the DIM STAGE.
+database\ieee\TA675.wav SEE the PLAYER SCOOT to THIRD BASE.
+database\ieee\TA676.wav SLIDE the BILL BETWEEN the TWO LEAVES.
+database\ieee\TA677.wav MANY HANDS HELP get the JOB DONE.
+database\ieee\TA678.wav We DON'T LIKE to ADMIT our SMALL FAULTS.
+database\ieee\TA679.wav NO DOUBT about the WAY the WIND BLOWS.
+database\ieee\TA680.wav DIG DEEP in the EARTH for PIRATE'S GOLD.
+database\ieee\TA681.wav The STEADY DRIP is WORSE than a DRENCHING RAIN.
+database\ieee\TA682.wav A FLAT PACK takes LESS LUGGAGE SPACE.
+database\ieee\TA683.wav GREEN ICE FROSTED the PUNCH BOWL.
+database\ieee\TA684.wav A STUFFED CHAIR SLIPPED from the MOVING VAN.
+database\ieee\TA685.wav The STITCH will SERVE BUT NEEDS to be SHORTENED.
+database\ieee\TA686.wav A THIN BOOK FITS in the SIDE POCKET.
+database\ieee\TA687.wav The GLOSS on TOP MADE it UNFIT to READ.
+database\ieee\TA688.wav The HAIL PATTERED on the BURNT BROWN GRASS.
+database\ieee\TA689.wav SEVEN SEALS were STAMPED on GREAT SHEETS.
+database\ieee\TA690.wav Our TROOPS are SET to STRIKE HEAVY BLOWS.
+database\ieee\TA691.wav The STORE was JAMMED BEFORE the SALE could START.
+database\ieee\TA692.wav It was a BAD ERROR on the PART of the NEW JUDGE.
+database\ieee\TA693.wav ONE STEP MORE and the BOARD will COLLAPSE.
+database\ieee\TA694.wav TAKE the MATCH and STRIKE it AGAINST your SHOE.
+database\ieee\TA695.wav The POT BOILED, but the CONTENTS FAILED to JELL.
+database\ieee\TA696.wav The BABY PUTS his RIGHT FOOT in his MOUTH.
+database\ieee\TA697.wav The BOMBS LEFT MOST of the TOWN in RUINS.
+database\ieee\TA698.wav STOP and STARE at the HARD WORKING MAN.
+database\ieee\TA699.wav The STREETS are NARROW and FULL of SHARP TURNS.
+database\ieee\TA700.wav The PUP JERKED the LEASH as he saw a FELINE SHAPE.
+database\ieee\TA701.wav OPEN YOUR BOOK to the FIRST PAGE.
+database\ieee\TA702.wav FISH EVADE the NET and SWIM OFF.
+database\ieee\TA703.wav DIP the PAIL ONCE and LET it SETTLE.
+database\ieee\TA704.wav WILL you PLEASE ANSWER THAT PHONE.
+database\ieee\TA705.wav The BIG RED APPLE FELL to the GROUND.
+database\ieee\TA706.wav The CURTAIN ROSE and the SHOW WAS ON.
+database\ieee\TA707.wav The YOUNG PRINCE BECAME HEIR to the THRONE.
+database\ieee\TA708.wav HE SENT the BOY on a SHORT ERRAND.
+database\ieee\TA709.wav LEAVE NOW and YOU will ARRIVE on TIME.
+database\ieee\TA710.wav The CORNER STORE was ROBBED LAST NIGHT.
+database\ieee\TA711.wav A GOLD RING will PLEASE most ANY GIRL.
+database\ieee\TA712.wav The LONG JOURNEY HOME TOOK a YEAR.
+database\ieee\TA713.wav SHE SAW a CAT in the NEIGHBOR'S HOUSE.
+database\ieee\TA714.wav A PINK SHELL was FOUND on the SANDY BEACH.
+database\ieee\TA715.wav SMALL CHILDREN CAME to SEE HIM.
+database\ieee\TA716.wav The GRASS and BUSHES WERE WET with DEW.
+database\ieee\TA717.wav The BLIND MAN COUNTED his OLD COINS.
+database\ieee\TA718.wav A SEVERE STORM TORE DOWN the BARN.
+database\ieee\TA719.wav SHE CALLED his NAME MANY TIMES.
+database\ieee\TA720.wav WHEN you HEAR the BELL, COME QUICKLY.

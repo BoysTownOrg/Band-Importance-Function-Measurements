@@ -1,0 +1,81 @@
+TrialNumber	SentenceDuration	TimeToResponseStart	TimeToResponseEnd	SoundFile	ActiveChannels	SubjectResponse
+1	2.8234	5.3095	13.7492	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_TA314_21_20_19_13_09_07_05.WAV	21,20,19,13,09,07,05,	hey Bruce                    can
+2	2.7651	3.6389	4.8545	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_AW78_21_19_17_15_12_08_06.WAV	21,19,17,15,12,08,06,	nothing
+3	2.0399	3.3256	4.6055	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_AW169_21_18_16_15_11_09_05.WAV	21,18,16,15,11,09,05,	nothing
+4	2.3925	2.898	8.5299	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_TA392_22_18_17_16_11_09_06.WAV	22,18,17,16,11,09,06,	the lead                                 anyone
+5	2.5358	3.902	5.2699	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_AW12_21_20_13_12_10_09_06.WAV	21,20,13,12,10,09,06,	nothing
+6	2.4882	4.1088	5.4856	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_AW120_22_19_13_07_06_05_03.WAV	22,19,13,07,06,05,03,	nothing
+7	2.4031	2.6672	7.9321	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_TA273_21_16_15_14_08_05_04.WAV	21,16,15,14,08,05,04,	cut the cord 
+8	2.4906	2.9637	7.7396	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_AW154_19_17_16_10_09_06_03.WAV	19,17,16,10,09,06,03,	the coffee
+9	2.9383	4.1222	5.3459	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_AW118_21_18_13_12_10_09_07.WAV	21,18,13,12,10,09,07,	nothing
+10	2.6072	3.6466	4.9902	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_AW53_21_20_17_14_11_10_09.WAV	21,20,17,14,11,10,09,	nothing
+11	2.351	4.0089	5.5686	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_AW32_16_13_11_06_05_04_03.WAV	16,13,11,06,05,04,03,	nothing
+12	3.1203	3.7144	9.6823	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_TA355_21_19_15_14_13_09_04.WAV	21,19,15,14,13,09,04,	the walk         tripled
+13	2.1907	5.3443	6.6482	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_AW159_21_17_16_13_09_08_07.WAV	21,17,16,13,09,08,07,	nothing
+14	2.8036	3.1826	11.779	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_AW61_22_16_12_08_07_05_04.WAV	22,16,12,08,07,05,04,	we talked at the side show at the circus
+15	2.6796	3.6031	4.9468	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_AW50_20_17_15_13_12_08_05.WAV	20,17,15,13,12,08,05,	nothing
+16	2.3183	2.7131	11.6365	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_TA386_22_21_13_12_10_06_03.WAV	22,21,13,12,10,06,03,	the trip                       zoo
+17	2.8584	3.6384	6.5582	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_TA280_20_17_16_12_11_06_03.WAV	20,17,16,12,11,06,03,	        the clock
+18	2.7317	3.0064	4.3833	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_TA311_20_16_15_13_09_05_03.WAV	20,16,15,13,09,05,03,	nothing
+19	2.5212	4.0946	8.6544	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_AW91_20_17_15_07_05_04_03.WAV	20,17,15,07,05,04,03,	               cold              steep
+20	2.4292	2.9134	10.4492	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_AW190_19_18_15_13_10_06_04.WAV	19,18,15,13,10,06,04,	she was struggling           in class
+21	2.0977	2.822	16.3414	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_TA207_21_20_17_14_11_07_04.WAV	21,20,17,14,11,07,04,	after the dance, we went straight home
+22	1.8899	4.0626	13.0943	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_TA387_19_18_15_12_09_08_06.WAV	19,18,15,12,09,08,06,	                     poured out of every crack
+23	2.5424	3.8279	8.6195	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_AW95_20_18_15_14_10_09_05.WAV	20,18,15,14,10,09,05,	                              the place to be
+24	3.1451	5.166	14.5178	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_TA270_21_16_14_12_06_05_04.WAV	21,16,14,12,06,05,04,	                 food                       hot cross bun
+25	2.1472	2.8889	5.9528	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_TA249_20_17_12_11_07_05_04.WAV	20,17,12,11,07,05,04,	the first
+26	2.5355	3.0918	12.6026	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_AW141_22_21_14_13_07_06_04.WAV	22,21,14,13,07,06,04,	the young kid jumped the             gate
+27	2.8078	5.8655	7.6571	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_TA308_21_15_08_07_06_05_04.WAV	21,15,08,07,06,05,04,	nothing
+28	2.7127	3.4788	10.4545	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_AW52_20_19_18_15_10_07_03.WAV	20,19,18,15,10,07,03,	      crippled                                    the mess
+29	2.5034	3.8173	9.728	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_TA362_22_19_18_09_08_07_03.WAV	22,19,18,09,08,07,03,	            completely
+30	2.8163	3.9791	11.9549	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_TA338_20_18_14_12_10_09_04.WAV	20,18,14,12,10,09,04,	                               central port
+31	3.0359	4.316	10.0519	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_AW111_22_17_14_13_11_09_07.WAV	22,17,14,13,11,09,07,	 the market
+32	2.8837	3.5314	7.6673	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_TA271_21_20_19_14_07_06_05.WAV	21,20,19,14,07,06,05,	the horse
+33	2.8982	4.0984	5.506	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_TA298_20_17_16_14_05_04_03.WAV	20,17,16,14,05,04,03,	nothing
+34	2.1722	3.326	7.3096	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_TA203_21_18_17_15_12_08_07.WAV	21,18,17,15,12,08,07,	                                       bath water
+35	2.24	2.5263	9.4309	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_TA209_19_18_14_12_09_08_06.WAV	19,18,14,12,09,08,06,	                   flashed                     near the end
+36	2.4276	3.0157	10.0235	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_TA236_21_18_17_15_12_11_05.WAV	21,18,17,15,12,11,05,	where does                                 end
+37	2.5842	5.924	6.7317	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_AW157_20_19_18_17_14_09_05.WAV	20,19,18,17,14,09,05,	the
+38	2.6006	3.2277	16.6832	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_TA394_22_18_17_14_13_08_05.WAV	22,18,17,14,13,08,05,	the foot struck the knee of the next player
+39	2.3272	4.8536	6.1974	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_TA275_22_21_20_17_09_05_03.WAV	22,21,20,17,09,05,03,	nothing
+40	2.8837	3.6219	11.1016	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_TA279_22_18_17_12_10_09_03.WAV	22,18,17,12,10,09,03,	the foot is better
+41	2.6632	3.4169	9.4166	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_AW189_21_20_14_12_11_10_07.WAV	21,20,14,12,11,10,07,	he cleared the fence and
+42	2.6448	3.2665	7.4584	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_TA269_22_20_19_18_17_10_05.WAV	22,20,19,18,17,10,05,	               slippers
+43	2.8738	5.9377	14.2575	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_AW66_21_19_17_14_11_07_03.WAV	21,19,17,14,11,07,03,	cars and brustles
+44	2.442	3.0683	12.7399	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_TA357_22_15_11_10_09_08_04.WAV	22,15,11,10,09,08,04,	the red                   sticks to the kings pen
+45	2.4852	4.8077	6.0866	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_AW76_22_21_19_18_17_15_03.WAV	22,21,19,18,17,15,03,	nothing
+46	2.1722	3.1514	4.6152	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_TA208_22_19_18_14_12_08_05.WAV	22,19,18,14,12,08,05,	nothing
+47	2.7791	4.074	11.8507	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_AW67_21_19_12_11_08_05_04.WAV	21,19,12,11,08,05,04,	the set of                              with a crash
+48	2.8062	3.6528	12.5884	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_TA233_22_19_16_14_12_10_06.WAV	22,19,16,14,12,10,06,	     broke in time         with friends
+49	2.4075	3.5212	7.9529	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_AW133_21_19_15_14_07_06_04.WAV	21,19,15,14,07,06,04,	                                  her legs
+50	2.4312	3.3985	5.0383	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_AW11_21_19_17_16_12_08_05.WAV	21,19,17,16,12,08,05,	the boy
+51	2.7009	3.2229	4.4466	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_AW17_19_18_15_14_12_09_08.WAV	19,18,15,14,12,09,08,	nothing
+52	2.421	3.0074	8.9111	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_TA205_17_16_15_10_07_06_04.WAV	17,16,15,10,07,06,04,	the first                        difference
+53	2.4108	4.5897	5.9175	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_TA372_21_18_10_09_08_06_04.WAV	21,18,10,09,08,06,04,	nothing
+54	2.8327	4.7646	10.7883	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_TA322_18_17_15_10_09_07_06.WAV	18,17,15,10,09,07,06,	He                                            strong contents
+55	2.5253	3.3897	14.0772	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_AW122_21_18_16_12_07_06_04.WAV	21,18,16,12,07,06,04,	              harder he tried the less he got done
+56	2.6649	3.3075	11.8272	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_AW129_22_19_14_12_11_07_06.WAV	22,19,14,12,11,07,06,	                   heat             pink diamond
+57	2.4896	5.98	15.8358	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_AW165_21_17_13_11_09_05_03.WAV	21,17,13,11,09,05,03,	the         story              does not leave the
+58	2.5707	3.5034	4.8951	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_TA295_22_18_16_14_11_08_06.WAV	22,18,16,14,11,08,06,	nothing
+59	1.6299	2.6934	14.005	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_TA377_19_17_11_07_06_05_03.WAV	19,17,11,07,06,05,03,	                     kept him waiting
+60	2.1259	4.3419	5.9577	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_AW113_20_19_15_11_10_08_07.WAV	20,19,15,11,10,08,07,	nothing
+61	1.918	3.2873	5.5192	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_TA244_20_17_15_11_05_04_03.WAV	20,17,15,11,05,04,03,	nothing
+62	2.4276	3.6411	5.0808	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_TA239_22_21_18_16_13_12_07.WAV	22,21,18,16,13,12,07,	nothing
+63	2.3141	2.7827	9.1586	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_AW194_17_16_12_10_09_04_03.WAV	17,16,12,10,09,04,03,	the paper box is full of 
+64	2.2883	3.2143	10.1181	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_TA307_22_20_14_09_06_05_04.WAV	22,20,14,09,06,05,04,	it is late morning when you
+65	2.7301	4.3289	5.6885	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_AW25_22_14_12_11_10_07_04.WAV	22,14,12,11,10,07,04,	nothing
+66	2.4849	4.9632	16.9308	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_AW62_22_21_18_14_12_07_04.WAV	22,21,18,14,12,07,04,	use the                    to      first drought
+67	2.3188	3.131	10.9466	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_AW121_22_16_12_11_06_05_03.WAV	22,16,12,11,06,05,03,	time passed                      three winners
+68	1.9029	2.667	8.5387	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_AW153_21_14_11_09_08_05_03.WAV	21,14,11,09,08,05,03,	he broke                              not dead
+69	3.0292	5.6119	9.3246	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_TA258_21_18_09_07_05_04_03.WAV	21,18,09,07,05,04,03,	                    can be used
+70	2.5653	4.6364	8.5641	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_AW27_20_19_16_14_11_08_07.WAV	20,19,16,14,11,08,07,	the                                     trash
+71	2.4818	3.0372	12.7808	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_AW195_17_15_11_10_06_05_04.WAV	17,15,11,10,06,05,04,	so you gift to the blind               to do
+72	2.3043	3.5272	4.7348	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_TA398_20_18_12_11_07_05_04.WAV	20,18,12,11,07,05,04,	nothing
+73	2.1034	3.3041	4.6237	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_AW102_17_16_15_10_09_04_03.WAV	17,16,15,10,09,04,03,	nothing
+74	2.6209	3.3503	5.4621	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_TA261_20_18_15_14_11_10_03.WAV	20,18,15,14,11,10,03,	the duck
+75	2.7396	3.5463	12.594	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_TA256_22_20_15_11_07_06_03.WAV	22,20,15,11,07,06,03,	                       built with red clay bricks
+76	2.3986	3.355	9.9548	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_AW160_20_18_14_12_10_08_05.WAV	20,18,14,12,10,08,05,	the silver position was
+77	2.2058	3.5318	4.8515	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_TA327_20_19_12_11_09_08_03.WAV	20,19,12,11,09,08,03,	nothing
+78	2.5503	4.0115	8.6432	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_AW125_22_19_18_15_13_12_06.WAV	22,19,18,15,13,12,06,	                                    sturdy bus
+79	2.5709	3.3299	10.9057	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_TA317_22_21_14_11_09_08_03.WAV	22,21,14,11,09,08,03,	            speed                       as needed
+80	2.4188	2.9265	4.6062	.\Filtered Sound Files\N15_Left_Ear_vocoder-none_AW96_22_19_18_14_08_05_04.WAV	22,19,18,14,08,05,04,	           box
